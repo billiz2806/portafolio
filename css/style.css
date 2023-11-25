@@ -1354,7 +1354,7 @@ section.padding-60 {
 /*                      THEME ELEMENTS
 /*=================================================================*/
 .social-icons li:not(:last-child) {
-  margin-right: 0.3rem;
+  margin-right: 1.3rem;
 }
 .social-icons li a {
   color: #FFF;
