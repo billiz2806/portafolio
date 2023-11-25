@@ -70,7 +70,7 @@ img {
 }
 
 .background-blue {
-  background: #4A63E7;
+  background: #25306c;
 }
 
 /*=================================================================*/
@@ -173,7 +173,7 @@ pre {
 /*=================================================================*/
 header.left {
   color: #FFF;
-  background: #4A63E7;
+  background: #25306c;
   border-radius: 20px;
   min-height: 620px;
   max-height: 620px;
@@ -307,7 +307,7 @@ header .copyright {
 }
 
 .mobile-header {
-  background: #4A63E7;
+  background: #25306c;
   border-radius: 20px;
   display: none;
   -webkit-transform: translateX(0);
@@ -793,7 +793,7 @@ section.padding-60 {
 }
 .price-item.recommended {
   color: #FFF;
-  background: #4A63E7;
+  background: #25306c;
 }
 .price-item.recommended .price {
   color: #FFF;
@@ -942,7 +942,7 @@ section.padding-60 {
 /*=================================================================*/
 .overlay {
   border-radius: 20px;
-  background: #4A63E7;
+  background: #25306c;
   left: 0;
   top: 0;
   opacity: 0.9;
@@ -1031,7 +1031,7 @@ section.padding-60 {
   background: #FF5959;
 }
 .btn-default:hover {
-  background: #4A63E7;
+  background: #25306c;
   color: #FFF;
   -webkit-transform: translateY(-3px);
   -moz-transform: translateY(-3px);
@@ -1045,7 +1045,7 @@ section.padding-60 {
 
 .btn-alt {
   color: #FFF;
-  background: #4A63E7;
+  background: #25306c;
 }
 .btn-alt:hover {
   color: #FFF;
@@ -1062,7 +1062,7 @@ section.padding-60 {
 
 .btn-border {
   color: #FFF;
-  background: #4A63E7;
+  background: #25306c;
 }
 .btn-border:hover {
   color: #FFF;
